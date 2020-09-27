@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resepenak/static/css/main.5eb2b1f3.chunk.css",
+    "main.js": "/resepenak/static/js/main.6ea11cf1.chunk.js",
+    "main.js.map": "/resepenak/static/js/main.6ea11cf1.chunk.js.map",
+    "runtime-main.js": "/resepenak/static/js/runtime-main.d4b3bb5f.js",
+    "runtime-main.js.map": "/resepenak/static/js/runtime-main.d4b3bb5f.js.map",
+    "static/js/2.a652ef1f.chunk.js": "/resepenak/static/js/2.a652ef1f.chunk.js",
+    "static/js/2.a652ef1f.chunk.js.map": "/resepenak/static/js/2.a652ef1f.chunk.js.map",
+    "index.html": "/resepenak/index.html",
+    "precache-manifest.e2f7963b3d5b02a88567ef8ed6a8bb83.js": "/resepenak/precache-manifest.e2f7963b3d5b02a88567ef8ed6a8bb83.js",
+    "service-worker.js": "/resepenak/service-worker.js",
+    "static/css/main.5eb2b1f3.chunk.css.map": "/resepenak/static/css/main.5eb2b1f3.chunk.css.map",
+    "static/js/2.a652ef1f.chunk.js.LICENSE.txt": "/resepenak/static/js/2.a652ef1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b3bb5f.js",
+    "static/js/2.a652ef1f.chunk.js",
+    "static/css/main.5eb2b1f3.chunk.css",
+    "static/js/main.6ea11cf1.chunk.js"
+  ]
+}
